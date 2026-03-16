@@ -1,5 +1,4 @@
-## Hi there 👋
-# Profile
+
 <div align="center">
   <a href="https://github.com/karolynekschaves">
     <img align="center" alt="hello" src="https://github.com/user-attachments/assets/576ed975-04b5-4d26-8ff5-4ac36157bf43" width="500" />
