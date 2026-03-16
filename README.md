@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/karolynekschaves">
-    <img align="center" alt="hello" src="https://github.com/user-attachments/assets/576ed975-04b5-4d26-8ff5-4ac36157bf43" width="500" />
+    <img align="center" alt="hello" src="https://github.com/user-attachments/assets/7dc03ab3-babe-4edc-8265-1087622d7a96" width="500" />
   </a>
 </div>
 <br>
