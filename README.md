@@ -13,5 +13,5 @@
   <a href = "mailto:karolynekschaves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/karolynekschaves-ux=anuraghazra&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?karolynekschaves-ux=anuraghazra&stats_format=bytes)
 </div>
