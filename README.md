@@ -2,10 +2,11 @@
 <div align="center">
   <a href="https://github.com/karolynekschaves">
     <img align="center" alt="hello" src="https://github.com/user-attachments/assets/7dc03ab3-babe-4edc-8265-1087622d7a96" width="500" />
-    <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
   </a>
 </div>
 <br>
+
+ <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 <div align="center">
 <!--Links de perfil -->
